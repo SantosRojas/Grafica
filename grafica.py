@@ -5,7 +5,6 @@ from matplotlib import style
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import numpy as np
 from control01 import *
-import control.matlab as cn
 from tkinter.messagebox import showerror,showinfo
 from ttkthemes import ThemedTk
 
